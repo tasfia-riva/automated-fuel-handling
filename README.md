@@ -17,3 +17,8 @@ The system was tested using dummy fuel rods, and the results demonstrated accura
 ![Automated Nuclear Fuel Handling Machine](physical_setup.jpg)
 
 Figure: Developed prototype of the automated nuclear fuel handling machine.
+
+This video demonstrates the operation of the Automated Nuclear Fuel Handling Machine, including the movement of the robotic gantry and the simulated fuel rod handling process.
+
+<video src="working_demo.mp4" controls></video>
+
