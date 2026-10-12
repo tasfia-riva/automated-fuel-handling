@@ -13,3 +13,7 @@ The system was tested using dummy fuel rods, and the results demonstrated accura
 - Accurate positioning and efficient movement.
 - Focus on radiation safety and reduced human intervention.
 - Cost-effective prototype design.
+
+![Automated Nuclear Fuel Handling Machine](physical_setup.jpg)
+
+Figure: Developed prototype of the automated nuclear fuel handling machine.
