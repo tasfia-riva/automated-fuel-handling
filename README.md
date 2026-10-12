@@ -20,5 +20,7 @@ Figure: Developed prototype of the automated nuclear fuel handling machine.
 
 This video demonstrates the operation of the Automated Nuclear Fuel Handling Machine, including the movement of the robotic gantry and the simulated fuel rod handling process.
 
-<video src="working_demo.mp4" controls></video>
+
+https://github.com/user-attachments/assets/52eb6d00-0427-4122-b89d-2d574777a9cb
+
 
